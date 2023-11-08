@@ -20,9 +20,4 @@ public class CargarEscena : MonoBehaviour
             yield return null;
         }
     }
-
-    public void Salir() {
-        Debug.Log("Saliendo...");
-        Application.Quit();
-    }
 }
