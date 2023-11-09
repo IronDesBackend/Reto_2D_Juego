@@ -9,9 +9,21 @@ EditorBuildSettings:
     path: Assets/Scenes/PantallaInicio.unity
     guid: 1314641e3771bbd439964f31f0345395
   - enabled: 1
+    path: Assets/Scenes/EasyMode.unity
+    guid: 435203e9703d641448c7f09e63ec1780
+  - enabled: 1
     path: Assets/Scenes/Nivel01.unity
     guid: 90b6289632f9a0946b025dfc20de0a9e
   - enabled: 1
     path: Assets/Scenes/Nivel02.unity
     guid: 54adf8fd47463e144b01b6a3b68d8823
+  - enabled: 1
+    path: Assets/Scenes/HardMode.unity
+    guid: 9dc3c7e0fa7eca541b28b1201296cf19
+  - enabled: 1
+    path: Assets/Scenes/Level01.unity
+    guid: 6dbfa3efdde3a4e40bf3eaf56c3172ae
+  - enabled: 1
+    path: Assets/Scenes/Level02.unity
+    guid: 45f7ed7d69a3ff34d94c23fa11fa01dc
   m_configObjects: {}
